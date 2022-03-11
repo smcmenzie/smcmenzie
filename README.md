@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smcmenzie.
 - 👀 I’m interested in mobile apps, on iOS and Android.
 - 📱I've created the Steak Timer and Tap Tool apps on the App Store.
-- 🕝 I'm in the process of porting Tap Tool across to Android.
+- 🕝 I have also just relased the Tap Tool for Android on the Play Store.
 - Right now, I'm working on a new app for both platforms. Watch this space!
 
 <!---
